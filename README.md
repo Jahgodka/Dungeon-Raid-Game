@@ -42,7 +42,7 @@ Enter coordinate pairs separated by spaces: `Column,Row`
 1.  **Clone the repository**
     ```bash
     git clone https://github.com/Jahgodka/dungeon-raid-game.git
-    cd dungeon-raid-console
+    cd dungeon-raid
     ```
 
 2.  **Navigate to the source code**
