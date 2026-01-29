@@ -41,7 +41,7 @@ Enter coordinate pairs separated by spaces: `Column,Row`
 ### Instructions
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/Jahgodka/dungeon-raid-console.git](https://github.com/Jahgodka/dungeon-raid-console.git)
+    git clone https://github.com/Jahgodka/dungeon-raid-console.git
     cd dungeon-raid-console
     ```
 
