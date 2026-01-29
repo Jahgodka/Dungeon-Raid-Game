@@ -1,0 +1,17 @@
+# Visual Studio files
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+*.user
+x64/
+Debug/
+Release/
+*.db
+*.ipch
+*.iobj
+*.pdb
+*.ilk
+*.exe
+*.obj
