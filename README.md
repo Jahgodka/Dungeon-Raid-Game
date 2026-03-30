@@ -1,8 +1,8 @@
-# ⚔️ Dungeon Raid Console
+# Dungeon Raid Console
 
 A C++ console-based puzzle RPG game inspired by "Dungeon Raid". The game combines **Match-3 mechanics** with dungeon crawling strategy. The goal is to survive as long as possible by connecting matching items and defeating enemies.
 
-## 🎮 How to Play
+## How to Play
 
 The game takes place on a **6x6 grid**. Each turn, you must connect a sequence of **at least 3 adjacent items** (horizontally, vertically, or diagonally).
 
@@ -18,13 +18,13 @@ Enter coordinate pairs separated by spaces: `Column,Row`
 * **P (Potion):** Heals 10 HP.
 * **A (Armor):** Adds +3 Armor (protects against damage).
 
-## 🛠️ Mechanics
+## Mechanics
 
 * **Combat:** Unlike standard Match-3 games, you can connect **Swords** and **Enemies** in a single line. Each sword increases damage dealt to *all* connected enemies.
 * **Defense:** Armor absorbs incoming damage. If damage exceeds armor, your Health (HP) decreases.
 * **Turn Based:** You have a limited number of turns (10) to get the highest score possible.
 
-## 💻 Technical Info
+## Technical Info
 
 * **Language:** C++ (C++17 standard)
 * **Architecture:** Object-Oriented Programming (OOP)
@@ -32,7 +32,7 @@ Enter coordinate pairs separated by spaces: `Column,Row`
     * **Memory Management:** Proper allocation/deallocation of grid entities.
     * **Logic:** Custom match-finding and grid-collapsing algorithms.
 
-## 🚀 How to Run
+## How to Run
 
 ### Requirements
 * A C++ Compiler (GCC/G++, MinGW, or Clang).
